@@ -309,6 +309,7 @@ main {
 .header :nth-child(2) {
     font-weight: 600;
     font-size: 12px;
+    cursor: pointer;
 }
 
 /* followlist */
