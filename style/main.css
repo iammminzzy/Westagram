@@ -390,4 +390,15 @@ main {
     .middle img {
         width: 100%;
     }
+
+    .icons {
+        width: 145px;
+    }
+
+    .icons a:nth-child(1),
+    :nth-child(4),
+    :nth-child(6) {
+        display: none;
+    }
+
 }
